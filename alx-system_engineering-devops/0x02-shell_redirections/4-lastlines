@@ -1,0 +1,3 @@
+#!/bin/bash
+#make sure you are in the /etc/passwd directory
+ls -lt | tail
