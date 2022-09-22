@@ -1,0 +1,10 @@
+#!/bin/bash
+
+current = $pwd
+path =$HOME
+while (current == path) 
+{
+
+cd ..
+
+}
