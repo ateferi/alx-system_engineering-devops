@@ -1,0 +1,2 @@
+/* this repository has shell basics and shell redirection commands
+*/

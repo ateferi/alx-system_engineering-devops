@@ -1,0 +1,2 @@
+/* this directory contains shell basics command and syntax
+*/
